@@ -6,10 +6,10 @@ This is a repository related to StackOverflow development survey of 2011 and 201
 - Did Linux and Mac OS win the fight against Microsoft?
 
 ### The repository contains the following:
- - StackOverflow Survey 2011 vs 2020.ipnb (doc containing the python code)
- - 2011_survey_results_public.csv (source file with data for 2011). Stack Overflow 2011 Survey Results - rows: 2814  columns: 65
- - 2020_survey_results_public.zip (source file with data for 2020). Stack Overflow 2020 Survey Results - rows: 64461  columns: 61 
- - 2020_survey_results_schema.csv (source companion file with data for 2020). Stack Overflow 2020 Survey Question schema.
+ - **StackOverflow Survey 2011 vs 2020.ipnb** (doc containing the python code)
+ - **2011_survey_results_public.csv** (source file with data for 2011). Stack Overflow 2011 Survey Results - rows: 2814  columns: 65
+ - **2020_survey_results_public.zip** (source file with data for 2020). Stack Overflow 2020 Survey Results - rows: 64461  columns: 61 
+ - **2020_survey_results_schema.csv** (source companion file with data for 2020). Stack Overflow 2020 Survey Question schema.
 
  
  ### Libraries used
