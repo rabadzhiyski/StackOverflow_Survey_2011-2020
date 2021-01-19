@@ -25,6 +25,6 @@ A lot of things happened for ten years but according to the StackOverflow survey
 - Windows is still the most preferred operating system but it is in constant decline. Linux, and especially Mac OS, were the winners of the last decade.
  
  ### Acknowledgements
- * There is a bog article written based on this data. Publsihed on [PMtonomy.com](https://pmtonomy.com/what-changed-for-a-decade/) and [medium.com](https://medium.com/@plamen.rabadzhiyski).
+ * There is a blog article written based on this data. Publsihed on [PMtonomy.com](https://pmtonomy.com/what-changed-for-a-decade/) and [medium.com](https://medium.com/@plamen.rabadzhiyski).
  * This exercise was part of [Udacity Data Science Nanodegree Program](https://www.udacity.com/)
  
