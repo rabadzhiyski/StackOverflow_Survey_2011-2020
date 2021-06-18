@@ -1,6 +1,6 @@
 # What has changed for a decade?
 
-This is a repository related to StackOverflow development survey of 2011 and 2012. With some exploratory data analyses we answer three questions:
+This is a repository related to StackOverflow development survey of 2011 and 2020. With some exploratory data analyses we answer three questions:
 - What were the most popular languages in 2011 and now?
 - What were the top 10 countries in 2011 and now?
 - Did Linux and Mac OS win the fight against Microsoft?
